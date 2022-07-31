@@ -25,7 +25,7 @@ html {
  .image-sec {
     width: 100%;
     height: 32%;
-    background-image: linear-gradient(hsla(277, 98%, 23%, 0.514) 100%, rgba(255, 255, 255, 0)), url('images/image-header-mobile.jpg');
+    background-image: linear-gradient(hsla(277, 98%, 23%, 0.514) 100%, rgba(255, 255, 255, 0)), url('image-header-mobile.jpg');
     background-size: cover;
  }
 
@@ -66,7 +66,7 @@ html {
         flex-direction: row-reverse;
     }
     .image-sec {
-        background-image: linear-gradient(hsla(277, 98%, 23%, 0.514) 100%, rgba(255, 255, 255, 0)), url('images/image-header-desktop.jpg');
+        background-image: linear-gradient(hsla(277, 98%, 23%, 0.514) 100%, rgba(255, 255, 255, 0)), url('image-header-desktop.jpg');
         background-size: cover;
         height: 100%;
         width: 100%;
